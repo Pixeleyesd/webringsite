@@ -1,0 +1,49 @@
+#mainDiv1 {
+	width:400px;
+	padding-top:5px;
+}
+#mainDiv2 {
+	width:250px;
+	padding-top:5px;
+	display:flex;
+	flex-direction:column;
+	position:relative;
+	padding-right:5px;
+	padding-left:20px
+}
+#webrings {
+	width:300px;
+	background:#2b2f31;
+	margin-left:20px;
+	margin-bottom:20px;
+	margin-top:5px;
+	padding:20px;
+
+}
+#varientsContain {
+	margin:0;
+}
+#varientText {
+	margin-left:5%;
+}
+#varients {
+	display:inline;
+}
+#webringText {
+	margin-left:5px;
+}
+#marqueeAds {
+	border-radius:5px;
+	margin-left:20px;
+	background:url('https://64.media.tumblr.com/2e82a6375b85df20426c550a84fa4577/c63bf6245ace1559-5a/s250x400/48fcfbfe1b77b70dcb97ba8a7fa954e999c8db36.gifv');
+}
+#usefulLinksText {
+	margin-left:5%;
+}
+#usefulButton {
+	flex-grow:5;
+	text-align:center;
+}
+#indexDiv {
+	width:500px;
+}
